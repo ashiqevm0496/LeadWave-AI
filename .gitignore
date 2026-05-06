@@ -1,0 +1,7 @@
+/vendor/
+data/*.sqlite
+data/*.log
+/.idea/
+/.vscode/
+Thumbs.db
+Desktop.ini
