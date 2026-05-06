@@ -3,6 +3,8 @@ data/*.sqlite
 data/*.log
 plugins/web-vuln-auditor/reports/*
 !plugins/web-vuln-auditor/reports/.gitkeep
+__pycache__/
+*.pyc
 /.idea/
 /.vscode/
 Thumbs.db
