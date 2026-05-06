@@ -1,6 +1,8 @@
 /vendor/
 data/*.sqlite
 data/*.log
+plugins/web-vuln-auditor/reports/*
+!plugins/web-vuln-auditor/reports/.gitkeep
 /.idea/
 /.vscode/
 Thumbs.db

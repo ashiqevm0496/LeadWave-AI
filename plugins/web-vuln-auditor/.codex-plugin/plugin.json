@@ -1,0 +1,44 @@
+{
+  "name": "web-vuln-auditor",
+  "version": "0.1.0",
+  "description": "Advanced website security and trust audit plugin for passive and light-touch active browser-facing assessments. It checks weak response headers, exposed API surfaces, unsafe scripts, outdated frontend frameworks, third-party tracking risks, and SEO spam injections, then generates professional Markdown or JSON audit reports.",
+  "author": {
+    "name": "ashiqevm0496"
+  },
+  "homepage": "https://github.com/ashiqevm0496/LeadWave-AI",
+  "repository": "https://github.com/ashiqevm0496/LeadWave-AI",
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "audit",
+    "headers",
+    "xss",
+    "tracking",
+    "seo-spam",
+    "frontend",
+    "website"
+  ],
+  "skills": "./skills/",
+  "scripts": "./scripts/",
+  "interface": {
+    "displayName": "Web Vuln Auditor",
+    "shortDescription": "Audit websites for browser-visible security issues",
+    "longDescription": "Web Vuln Auditor scans a target site for exposed API endpoints, missing or weak headers, risky script patterns, outdated frontend libraries, privacy and tracking risks, and common SEO spam injections. It produces professional audit reports with severity, evidence, and remediation guidance.",
+    "developerName": "ashiqevm0496",
+    "category": "Engineering",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/ashiqevm0496/LeadWave-AI",
+    "privacyPolicyURL": "https://github.com/ashiqevm0496/LeadWave-AI",
+    "termsOfServiceURL": "https://github.com/ashiqevm0496/LeadWave-AI",
+    "defaultPrompt": [
+      "Scan https://example.com and generate a professional web security audit report."
+    ],
+    "brandColor": "#0B1220",
+    "composerIcon": "./assets/shield.svg",
+    "logo": "./assets/shield.svg",
+    "screenshots": []
+  }
+}

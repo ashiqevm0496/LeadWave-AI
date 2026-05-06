@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Web Vuln Auditor">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="#0b1220"/>
+  <path d="M64 16 28 30v26c0 27 16.5 50.7 36 56 19.5-5.3 36-29 36-56V30Z" fill="url(#g)"/>
+  <path d="M45 66h14V44h10v22h14l-19 24Z" fill="#f8fafc"/>
+</svg>
