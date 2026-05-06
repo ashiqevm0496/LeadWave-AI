@@ -7,5 +7,7 @@ __pycache__/
 *.pyc
 /.idea/
 /.vscode/
+vscode-ui-screenshot-react/node_modules/
+vscode-ui-screenshot-react/out/
 Thumbs.db
 Desktop.ini
